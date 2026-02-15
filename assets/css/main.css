@@ -255,4 +255,12 @@ footer {
   h2 {
     font-size: 2.8rem;
   }
+
+  .btn {
+    font-size: 0.8rem;
+  }
+
+  .projects-grid {
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  }
 }
