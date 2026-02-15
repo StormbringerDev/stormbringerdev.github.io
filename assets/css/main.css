@@ -247,7 +247,7 @@ footer {
   border-top: 1px solid var(--border);
 }
 
-@media (max-width: 768px) {
+@media only screen and (max-width: 768px) {
   .nav-links {
     display: none;
   }
@@ -257,7 +257,7 @@ footer {
   }
 
   .btn {
-    font-size: 0.65rem;
+    font-size: 0.75rem;
   }
 
   .projects-grid {
