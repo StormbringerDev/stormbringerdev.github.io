@@ -4,7 +4,7 @@ My personal website and digital grimoire
 → <https://stormbringerdev.github.io>
 
 ## Current status
-🚧 **Under heavy construction** 🚧
+🚧 **Under heavy construction** 🚧  
 I'm actively working on a proper website using plain HTML+CSS.
 
 For now, you're seeing the site's README.
