@@ -12,27 +12,9 @@ For now, you're seeing the site's README.
 
 ## Planned sections
 
-- About me & bio
 - Projects / portfolio
+- About me & bio
 - Contact / links
-
-## Site Structure
-
-```
-stormbringerdev.github.io/
-├── index.html
-├── about.html
-├── projects.html
-├── contact.html
-├── assets/
-│   ├── css/
-│   │   └── main.css
-│   ├── js/
-│   │   └── main.js
-│   └── images/
-├── favicon.ico
-└── README.md
-```
 
 ## What now?
 
