@@ -6,7 +6,7 @@
   --border: rgba(0, 212, 255, 0.15);
 }
 
-[data-theme="light"] {
+[data-theme='light'] {
   --bg: #f8f9fc;
   --text: #1a1a3d;
   --accent: #0066cc;
@@ -21,7 +21,7 @@
 }
 
 body {
-  font-family: "Segoe UI", system-ui, sans-serif;
+  font-family: 'Segoe UI', system-ui, sans-serif;
   background: var(--bg);
   color: var(--text);
   line-height: 1.6;
@@ -51,7 +51,7 @@ header {
   transition: all 0.3s;
 }
 
-[data-theme="light"] header {
+[data-theme='light'] header {
   background: rgba(248, 249, 252, 0.8);
 }
 
