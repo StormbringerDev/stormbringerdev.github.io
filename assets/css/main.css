@@ -192,6 +192,11 @@ h2 {
   border-bottom: 1px solid var(--border);
 }
 
+.robofriends {
+  background-image: url(../images/RoboFriends.png);
+  background-size: cover;
+}
+
 .project-info {
   padding: 1.8rem;
 }
