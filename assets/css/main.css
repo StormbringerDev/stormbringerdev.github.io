@@ -197,6 +197,11 @@ h2 {
   background-size: cover;
 }
 
+.smartbrain {
+  background-image: url(../images/SmartBrain.png);
+  background-size: cover;
+}
+
 .project-info {
   padding: 1.8rem;
 }
