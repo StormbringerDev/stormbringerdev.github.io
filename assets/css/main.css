@@ -192,12 +192,12 @@ h2 {
   border-bottom: 1px solid var(--border);
 }
 
-.robofriends {
+#robofriends .project-img {
   background-image: url(/assets/images/RoboFriends.png);
   background-size: cover;
 }
 
-.smartbrain {
+#smartbrain .project-img {
   background-image: url(/assets/images/SmartBrain.png);
   background-size: cover;
 }
