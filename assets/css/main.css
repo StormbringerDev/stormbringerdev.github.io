@@ -193,12 +193,12 @@ h2 {
 }
 
 #robofriends .project-img {
-  background-image: url(/assets/images/RoboFriends.png);
+  background: url(/assets/images/RoboFriends.png);
   background-size: cover;
 }
 
 #smartbrain .project-img {
-  background-image: url(/assets/images/SmartBrain.png);
+  background: url(/assets/images/SmartBrain.png);
   background-size: cover;
 }
 
