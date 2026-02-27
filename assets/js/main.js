@@ -8,9 +8,7 @@ toggle.addEventListener('click', () => {
   html.setAttribute('data-theme', nextTheme);
 
   toggle.innerHTML =
-    nextTheme === 'dark'
-      ? '<i class="fas fa-moon"></i>'
-      : '<i class="fas fa-sun"></i>';
+    nextTheme === 'dark' ? '<i class="fas fa-moon"></i>' : '<i class="fas fa-sun"></i>';
 });
 
 window.addEventListener('scroll', () => {
